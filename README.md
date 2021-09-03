@@ -1,4 +1,4 @@
-# personal information demo
+# personal information demo portfolio
 
 I'm Yashwanth Kore.
 
