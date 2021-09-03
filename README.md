@@ -11,4 +11,4 @@ for now I know
 3. Repl.it
 4. CHALK
 
-Aiming for level one in neog camp
+Aiming for level one in neog camp to complete full stack development
